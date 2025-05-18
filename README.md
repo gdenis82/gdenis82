@@ -14,8 +14,8 @@ AI/ML workflows · Scientific computing · API design · Deployment automation
 📌 Interests:  
 Backend systems · Computer vision · Open source · Workflow automation · Clean, minimal architecture
 
-📫 Get in touch:  
-[GitHub Issues](https://github.com/gdenis82/gdenis82/issues) · [Email](denisgaev@live.ru)
+📫 Business inquiries:  
+[Email](mailto:denis.gaev@npwc.us)
 
 ---
 
