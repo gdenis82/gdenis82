@@ -1,16 +1,21 @@
-## Hi there 👋
+## 👋 Hi, I'm Denis
 
-<!--
-**gdenis82/gdenis82** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛠️ I build practical software — web backends and desktop apps — and train popular computer vision models.  
+Focused on automation in science and research.
 
-Here are some ideas to get you started:
+💻 Tech stack:  
+Python · PyCharm
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently exploring:  
+AI/ML workflows · Scientific computing · API design · Deployment automation
+
+📌 Interests:  
+Backend systems · Computer vision · Open source · Workflow automation · Clean, minimal architecture
+
+📫 Get in touch:  
+[GitHub Issues](https://github.com/gdenis82/gdenis82/issues) · [Email](denisgaev@live.ru)
+
+---
+
+> "Simplicity is not the absence of clutter, but the presence of meaning."
+
