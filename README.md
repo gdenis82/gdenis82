@@ -30,11 +30,6 @@ AI/ML workflows · Scientific computing · API design · Deployment automation
 📌 Interests:  
 Backend systems · Computer vision · Open source · Workflow automation · Clean, minimal architecture
 
-<p align="left">
-  📫 <strong>Business inquiries:</strong>  
-  <a href="mailto:denis.gaev@npwc.us">denis.gaev@npwc.us</a>
-</p>
-
 ---
 
 > "Simplicity is not the absence of clutter, but the presence of meaning."
